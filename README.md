@@ -1,6 +1,7 @@
 lamp cookbook
 ================
-Role : wrapper cookbook for LAMP stack.
+
+##Role : wrapper cookbook for LAMP stack.
 
 This cookbook provides a full LAMP stack, just include default recipe to get a full LAMP stack.
 
@@ -13,7 +14,7 @@ RHEL : 7.1
 This cookbook (current version) will not work with apache 2.2 and ubuntu < 13.10.
 Supported Platforms
 
-TODO: List your supported platforms.
+##TODO: List your supported platforms.
 
 Requirements Platform:
 
